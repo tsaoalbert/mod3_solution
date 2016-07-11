@@ -83,6 +83,39 @@ body {
 }
 /* END HEADER */
 
+.frame {
+  margin: 10px 10px 10px 10px;
+  background-color: lightgreen   ;
+  background-color: yellow   ;
+  padding: 10px;
+}
+
+#p1 {
+  background-color: #A52A2A;
+  color: #FFFFFF;
+}
+
+#p2 {
+  background-color: #DEB887;
+}
+
+#p3 {
+  background-color: yellow ;
+}
+
+#pp {
+  background-color: #DEB887;
+  background-color: #A52A2A;
+  // clear: both;
+}
+
+
+/* Simple Responsive Framework. */
+.row {
+  width: 100%;
+}
+
+
 /********** Large devices only **********/
 @media (min-width: 1200px) {
 
